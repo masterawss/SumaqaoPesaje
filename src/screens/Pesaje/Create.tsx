@@ -25,7 +25,7 @@ const Create = ({navigation}: any) => {
         <ScrollView>
             <Appbar.Header>
                 <Appbar.BackAction onPress={() => {navigation.goBack()}} />
-                <Appbar.Content title="Registro de pesaje" />
+                <Appbar.Content title="BLUETOOTH" />
             </Appbar.Header>
         </ScrollView>
     )

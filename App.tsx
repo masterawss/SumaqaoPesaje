@@ -32,7 +32,7 @@ export default function App() {
     <PaperProvider theme={theme}>
     <NavigationContainer>
       <Stack.Navigator
-        initialRouteName='home'
+        initialRouteName='pesaje.create'
         screenOptions={{
           headerShown: false,
           contentStyle: {
